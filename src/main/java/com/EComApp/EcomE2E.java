@@ -112,6 +112,11 @@ public class EcomE2E {
 	
 	
 	// ++ Get the details of added product +++//
+	System.out.println("--------------------------------------------");
+	
+	//+++    Place Order using above product ID ++ //
+	
+	System.out.println("--------------------------------------------");
 	
 	
 		
